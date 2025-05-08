@@ -2,6 +2,6 @@
 
 ### Hi I'm tknv 👋
 
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=tknv&layout=wide)](https://twitter.com/tknv)
+[![X](https://github-readme-twitter.gazf.vercel.app/api?id=tknv&layout=wide)](https://x.com/tknv)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
